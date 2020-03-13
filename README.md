@@ -21,3 +21,5 @@ interactively.
 - Version Control System the project is build upon
 - Link to the communication channels related to the project such as gitter,slack etc
 - User base of the project
+
+ Join the project's public chat for any queries: https://gitter.im/Contri-FOSS/community
